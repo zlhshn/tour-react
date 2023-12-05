@@ -15,13 +15,13 @@ A project I am working on to develop the hook structure in react.
 
 
 
- Tech/framework used
-🚀 React
-🚀 React Event
-🚀 React Hooks(UseState,UseEffects)
+## Tech/framework used
+🚀 React <br>
+🚀 React Event <br>
+🚀 React Hooks(UseState,UseEffects) <br>
 
 
-In the project directory, you can run:
+## In the project directory, you can run:
 
 ### `npm start` & `npm run`
 
